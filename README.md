@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome to My Page!
 
 You can use the [editor on GitHub](https://github.com/Fabby214/Fabricio-Mendez/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+html>
+<html>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is my first webpage , LETS GET IT!!
 
-```markdown
-Syntax highlighted code block
+  <body>
+  <img src="virtual landscape.jpg"height="400">
+  <h1>This my Intro to New Media page.</h1>
+    <p>From this page you can access all my homework for HUW 112</p>
+    <ul>
+      <li>href="alterego.html">Here is a link to my Alter Ego Potrait li>
+      <li>href="pattern.html">Here is a link to my Pattern li>
+      <li>href="logo.html">Here is a link to my Color Study li>
+      <li>href="film.html">Here is a link to my film li>
+      </body>
+html>
 
-# Header 1
-## Header 2
-### Header 3
+--------------------------------------------------------------
 
-- Bulleted
-- List
+File name and code for homework
 
-1. Numbered
-2. List
+alterego.html
 
-**Bold** and _Italic_ and `Code` text
+------------------------------------------------------------
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Fabby214/Fabricio-Mendez/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<h1>My Alter Ego Project</h1>
+<img src="alterego.jpg">
+<a href="index.html">Back to main page</a>
